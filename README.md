@@ -18,7 +18,7 @@ Datos y recursos para el Dataton 2021 de la PDN
     * *Aumentos desproporcionados en el patrimonio.*
     * *Conflictos de interés.*
     * *Identificar vínculos o relaciones entre niveles de puestos de los Servidores públicos que intervienen en procesos de contratación y los aumentos en su patrimonio.*
-    * *Identificar vínculos o relaciones entre sanciones impuestas a servidores públicos, su puesto actual y sus funciones. *
+    * *Identificar vínculos o relaciones entre sanciones impuestas a servidores públicos, su puesto actual y sus funciones.*
     * *Identificar relación de servidores públicos que intervienen en procesos de contratación con su nivel de puesto y patrimonio.*
     * *Cambios de personal encargado de las compras públicas por año fiscal y puesto actual y patrimonio.*
     * *Relación de servidores públicos sancionados, la  causa de la sanción y duración de la sanción.*
