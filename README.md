@@ -1,6 +1,8 @@
 # Dataton 2021 de la Plataforma Digital Nacional 🦔
 
-Descarga los [datos de declaraciones](https://github.com/PDNMX/dataton2021-datos/raw/main/declaraciones.json.zip).
+- [Datos de declaraciones](https://github.com/PDNMX/dataton2021-datos/raw/main/declaraciones.json.zip)
+- [Datos de personas servidoras públicas que intervienen en contrataciones públicas](https://github.com/PDNMX/dataton2021-datos/raw/main/SistemaS2.zip?raw=true)
+- [Datos de personas servidoras públicas sancionadas por actos de corrupción](https://github.com/PDNMX/dataton2021-datos/blob/raw/Sistema3Servidores.zip?raw=true)
 
 # Información útil  o ¿por dónde empezar?
 1. Las declaraciones patrimoniales y de intereses de los servidores públicos pueden contener 2 cosas:
