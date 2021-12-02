@@ -1,4 +1,4 @@
-# Datos para el Dataton 2021 de la Plataforma Digital Nacional 🦔
+# Dataton 2021 de la Plataforma Digital Nacional 🦔
 
 Descarga los [datos de declaraciones](https://github.com/PDNMX/dataton2021-datos/raw/main/declaraciones.json.zip).
 
