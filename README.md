@@ -1,5 +1,7 @@
-# dataton2021-datos 🦔
-Datos y recursos para el Dataton 2021 de la PDN
+# Datos para el Dataton 2021 de la Plataforma Digital Nacional 🦔
+
+Descarga los [datos de declaraciones](https://github.com/PDNMX/dataton2021-datos/raw/main/declaraciones.json.zip).
+
 # Información útil  o ¿por dónde empezar?
 1. Las declaraciones patrimoniales y de intereses de los servidores públicos pueden contener 2 cosas:
    * *El patrimonio de un servidor público al momento de empezar un trabajo (de inicio), durante ese trabajo (modificación) y al finalizar el empleo (de conclusión).*
